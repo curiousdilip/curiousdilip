@@ -1,4 +1,4 @@
-![dkmrya02](/assests/banner.jpg)
+![dkmrya02](/assets/banner.jpg)
 
 ## About Me
 
