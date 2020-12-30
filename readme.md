@@ -2,11 +2,8 @@
 
 ## About Me
 
-- A **Software Engineer** who loves exploring new technologies, building small projects, innovating and tinkering with stuff.
-- **Backend Developer** by day, _Indie Developer_ by night (well, sometimes :smile:) .
-- Experimenting with the **Frontend** as well and currently working on a Vue/Gridsome side-project.
-- Enjoys **automating tasks** to make life easier. Primarily with Python, but also occasionally with PowerShell.
-- Have a keen interest in designing, graphics and photo manipulation.
+- Hi! My name is **Dilip Kumar Maurya** I am a self taught **Front End Web Developer***. I learnt everything I know in my free time from youtube and online courses.
+- I’m currently learning Javascript.
 
 
 ## Tech/Software Stack
