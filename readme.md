@@ -1,37 +1,47 @@
-<h1 align="center">Hi 👋, I'm Dilip Kumar</h1>
-<h3 align="center">A Web Developer Enthusiast from India</h3>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/header.png" alt="SystemGlitch" width="100%"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dkmrya02&label=Profile%20views&color=0e75b6&style=flat" alt="dkmrya02" /> </p>
+I am a passionate developer and architect, always looking for improvement. I believe open-source software is a fantastic way of benefiting from the skills and experience of each individual in order to produce better, faster and stronger code. Everything must be documented, tested and linted!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dkmrya02" alt="dkmrya02" /></a> </p>
+- I am working on the Golang web framework [🍐Goyave](https://github.com/System-Glitch/goyave).
+- I am web director at [Project Celeste](https://www.projectceleste.com) (fan project).
+- I contributed to [`google/periph`](https://github.com/google/periph), [`gotk3/gotk3`](https://github.com/gotk3/gotk3), [`golangci/golangci-lint`](https://github.com/golangci/golangci-lint), and more!
+- I am interested in innovation, art, philosophy, music and video games.
+- <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/fr.png" alt="French" title="French"> Native&nbsp;|&nbsp;<img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/uk.png" alt="English" title="English"> Fluent
 
-<p align="left"> <a href="https://twitter.com/dkmrya02" target="blank"><img src="https://img.shields.io/twitter/follow/dkmrya02?logo=twitter&style=for-the-badge" alt="dkmrya02" /></a> </p>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/go.png" alt="Golang" title="Golang">
+    <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/js.png" alt="Javascript" title="Javascript">
+    <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/vue.png" alt="Vue.js" title="Vue.js">
+    <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/vscode.png" alt="Visual Studio Code" title="Visual Studio Code">
+</div>
 
-- 🌱 I’m currently learning **HTML, CSS, JS and Visual Basic**
+<div align="center">
+    <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/separator.png" width="100%"/>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://dkmrya02.github.io/myCV/](https://dkmrya02.github.io/myCV/)
+<div align="center">
 
-- 📝 I regulary write articles on [https://callmedilip.blogspot.com/](https://callmedilip.blogspot.com/)
+[![System-Glitch's Github stats](https://github-readme-stats.vercel.app/api?username=System-Glitch&show_icons=true&count_private=true&include_all_commits=true&layout=compact)](https://github.com/System-Glitch)
 
-- 📫 How to reach me **dkmrya02@gmail.com**
+</div>
 
-- 📄 Know about my experiences [https://dkmrya02.github.io/myCV/](https://dkmrya02.github.io/myCV/)
+<div align="center">
+    <a href="https://twitter.com/ImFlyingPancake">
+        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/twitter.svg" alt="Twitter" title="Twitter" width="35" height="35">
+    </a>
+    <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9my-lambert-29130a159/">
+        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="35" height="35">
+    </a>
+    <a href="https://t.me/SystemGlitch">
+        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/telegram.svg" alt="Telegram" title="Telegram" width="35" height="35">
+    </a>
+    <a href="https://www.patreon.com/system_glitch">
+        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/patreon.svg" alt="Patreon" title="Patreon" width="35" height="35">
+    </a>
+</div>
 
-- ⚡ Fun fact **I think i am Helpful as people remembers when they require me**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dkmrya02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dkmrya02" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dkmrya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dkmrya" height="30" width="40" /></a>
-<a href="https://fb.com/dkmrya02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dkmrya02" height="30" width="40" /></a>
-<a href="https://instagram.com/dkmrya02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dkmrya02" height="30" width="40" /></a>
-<a href="https://dribbble.com/dkmrya02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="dkmrya02" height="30" width="40" /></a>
-<a href="https://www.behance.net/dkmrya02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="dkmrya02" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkmrya02&show_icons=true&locale=en&layout=compact" alt="dkmrya02" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dkmrya02&show_icons=true&locale=en" alt="dkmrya02" /></p>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/footer.png" width="100%"/>
+</div>
