@@ -1,4 +1,4 @@
-![dkmrya02](https://i.imgur.com/5i0MOZL.png "dkmrya02")
+![dkmrya02](/assests/banner.jpg)
 
 ## About Me
 
