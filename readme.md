@@ -1,4 +1,4 @@
-![Ronan696](https://i.imgur.com/5i0MOZL.png "Ronan696")
+![dkmrya02](https://i.imgur.com/5i0MOZL.png "dkmrya02")
 
 ## About Me
 
@@ -42,11 +42,11 @@
 
 
 <p align="center">
-<a href="https://github.com/ronan696">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ronan696&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true" />
+<a href="https://github.com/dkmrya02">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dkmrya02&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
-<a href="https://github.com/ronan696">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronan696&layout=compact&theme=great-gatsby" />
+<a href="https://github.com/dkmrya02">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkmrya02&layout=compact&theme=great-gatsby" />
 </a>
 </p>
 
@@ -56,22 +56,21 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ronan696/"><img title="LinkedIn" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/linkedin.svg"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/Ronan696"><img title="Twitter" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/twitter.svg"/></a>
+<a href="https://linkedin.com/in/dkmrya02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dkmrya" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://fb.com/dkmrya02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dkmrya02" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Check out my work</h3>
 <p align="center">
-<a href="https://github.com/ronan696"><img title="GitHub" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/github.svg"/></a>&nbsp;&nbsp;
-<a href="https://codepen.io/ronan696"><img title="CodePen" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/codepen.svg"/></a>&nbsp;&nbsp;
-<a href="https://dribbble.com/ronan696"><img title="Dribbble" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/dribbble.svg"/></a>
+<a href="https://github.com/dkmrya02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="dkmrya02" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://codepen.io/dkmrya02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="dkmrya02" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://dribbble.com/dkmrya02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="dkmrya02" height="30" width="40" /></a>
 </p>
 
 
 <h3 align="center">Follow me</h3>
 <p align="center">
-<a href="https://www.instagram.com/ronan696/"><img title="Instagram" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/instagram.svg"/></a>&nbsp;&nbsp;
-<a href="https://pinterest.com/ronan696/"><img title="Pinterest" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/pinterest.svg"/></a>&nbsp;&nbsp;
-<a href="https://www.reddit.com/u/ronan696"><img title="reddit" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg"/></a>
+<a href="https://twitter.com/dkmrya02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dkmrya02" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/dkmrya02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dkmrya02" height="30" width="40" /></a>
 </p>
 </p>
