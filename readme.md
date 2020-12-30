@@ -1,47 +1,70 @@
-<div align="center">
-    <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/header.png" alt="SystemGlitch" width="100%"/>
-</div>
+<h1 align="center">Hi 👋, I'm Dedar Alam</h1>
+<h3 align="center">A passionate developer from Bangladesh <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="14"/> </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devded" alt="devded" /> </p>
 
-I am a passionate developer and architect, always looking for improvement. I believe open-source software is a fantastic way of benefiting from the skills and experience of each individual in order to produce better, faster and stronger code. Everything must be documented, tested and linted!
+- 🔭 I’m currently working on [Tweet Analysis ](https://github.com/devded/NLP-Thesis)
 
-- I am working on the Golang web framework [🍐Goyave](https://github.com/System-Glitch/goyave).
-- I am web director at [Project Celeste](https://www.projectceleste.com) (fan project).
-- I contributed to [`google/periph`](https://github.com/google/periph), [`gotk3/gotk3`](https://github.com/gotk3/gotk3), [`golangci/golangci-lint`](https://github.com/golangci/golangci-lint), and more!
-- I am interested in innovation, art, philosophy, music and video games.
-- <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/fr.png" alt="French" title="French"> Native&nbsp;|&nbsp;<img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/uk.png" alt="English" title="English"> Fluent
+- 🌱 I’m currently learning **Data Science**
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/go.png" alt="Golang" title="Golang">
-    <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/js.png" alt="Javascript" title="Javascript">
-    <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/vue.png" alt="Vue.js" title="Vue.js">
-    <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/vscode.png" alt="Visual Studio Code" title="Visual Studio Code">
-</div>
+- 📫 How to reach me **dedar@eclipso.it**
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/separator.png" width="100%"/>
-</div>
+#### 💻 Stack I Work With
 
-<div align="center">
+<p align="center">
+<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/opera-FF1B2D.svg?&style=for-the-badge&logo=opera&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/sublime-FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/edge-0078D7.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/sqlite-7CBEE4.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
+</p>
+ 
+ #### ⭐  Statistics and Languages
 
-[![System-Glitch's Github stats](https://github-readme-stats.vercel.app/api?username=System-Glitch&show_icons=true&count_private=true&include_all_commits=true&layout=compact)](https://github.com/System-Glitch)
+ <p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=devded&count_private=true&show_icons=true&theme=buefy" alt="devded" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devded&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="devded" height="165" />
+ </p>
 
-</div>
 
-<div align="center">
-    <a href="https://twitter.com/ImFlyingPancake">
-        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/twitter.svg" alt="Twitter" title="Twitter" width="35" height="35">
-    </a>
-    <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9my-lambert-29130a159/">
-        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="35" height="35">
-    </a>
-    <a href="https://t.me/SystemGlitch">
-        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/telegram.svg" alt="Telegram" title="Telegram" width="35" height="35">
-    </a>
-    <a href="https://www.patreon.com/system_glitch">
-        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/patreon.svg" alt="Patreon" title="Patreon" width="35" height="35">
-    </a>
-</div>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/png/footer.png" width="100%"/>
-</div>
+<!--
+
+For ICON With Text
+    https://img.shields.io/badge/HereText-FF9800.svg?&style=for-the-badge&logo=HereIconName&logoColor=white
+    
+For Github Stats
+    https://github-readme-stats.vercel.app/api?username=HereUsername&show_icons=true
+
+For Profile View
+    https://komarev.com/ghpvc/?username=HereUsername
+
+For Auto Generate
+    https://rahuldkjain.github.io/gh-profile-readme-generator/
+
+For County Flag ICOn
+    https://www.flaticon.com/
+
+For ICON Idea
+    https://simpleicons.org/
+
+-->
+
+<!-- ![Visitor Count](https://profile-counter.glitch.me/devded/count.svg) -->
+
+<!--
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=devded&theme=flat&row=1" alt="devded" />
+</p>
+
+-->
