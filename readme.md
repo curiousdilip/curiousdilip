@@ -2,7 +2,7 @@
 
 ## About Me
 
-- Hi! My name is **Dilip Kumar Maurya** I am a self taught **Front End Web Developer***. I learnt everything I know in my free time from youtube and online courses.
+- Hi! My name is **Dilip Kumar Maurya** and I am a self taught **Front End Web Developer**. I learnt everything I know in my free time from youtube and online courses.
 - I’m currently learning Javascript.
 
 
