@@ -31,7 +31,7 @@
 
 <p align="center">
 <a href="https://github.com/dkmrya02">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dkmrya02&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dkmrya02&theme=vision-friendly-dark&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/dkmrya02">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkmrya02&layout=compact&theme=vision-friendly-dark" />
