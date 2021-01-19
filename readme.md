@@ -41,9 +41,7 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/dkmrya02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dkmrya" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://fb.com/dkmrya02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dkmrya02" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/dkmrya02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dkmrya" height="30" width="40" /></a>&nbsp;&nbsp;</p>
 
 <h3 align="center">Check out my work</h3>
 <p align="center">
@@ -52,10 +50,3 @@
 <a href="https://dribbble.com/dkmrya02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="dkmrya02" height="30" width="40" /></a>
 </p>
 
-
-<h3 align="center">Follow me</h3>
-<p align="center">
-<a href="https://twitter.com/dkmrya02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dkmrya02" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/dkmrya02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dkmrya02" height="30" width="40" /></a>
-</p>
-</p>
