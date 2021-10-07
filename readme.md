@@ -29,13 +29,14 @@
 <p align="center">
 <a href="https://github.com/dkmrya02">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dkmrya02&theme=vision-friendly-dark&show_icons=true&include_all_commits=true&count_private=true" />
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=dkmrya02&column=6&theme=vision-friendly-dark"/>
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=dkmrya02&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/dkmrya02">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkmrya02&layout=compact&theme=vision-friendly-dark" />
 </a>
 </p>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=dkmrya02&column=6&theme=vision-friendly-dark"/>
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=dkmrya02&theme=vision-friendly-dark" />
 
 <hr/>
 
