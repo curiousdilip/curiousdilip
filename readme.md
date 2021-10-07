@@ -35,7 +35,7 @@
 </a>
 </p>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=dkmrya02&column=5&theme=vision-friendly-dark"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=dkmrya02&column=7&theme=vision-friendly-dark"/>
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=dkmrya02&theme=vision-friendly-dark" />
 
 <hr/>
