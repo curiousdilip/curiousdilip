@@ -1,4 +1,4 @@
-![dkmrya02](/assets/banner.jpg)
+<!-- ![dkmrya02](/assets/banner.jpg) -->
 
 ## About Me
 
@@ -27,16 +27,16 @@
 
 
 <p align="center">
-<a href="https://github.com/dkmrya02">
+<a href="https://github.com/curiousdilip">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dkmrya02&theme=vision-friendly-dark&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
-<a href="https://github.com/dkmrya02">
+<a href="https://github.com/curiousdilip">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkmrya02&layout=compact&theme=vision-friendly-dark" />
 </a>
 </p>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=dkmrya02&column=7&theme=vision-friendly-dark"/>
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=dkmrya02&theme=vision-friendly-dark" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=curiousdilip&column=7&theme=vision-friendly-dark"/>
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=curiousdilip&theme=vision-friendly-dark" />
 
 <hr/>
 
@@ -44,11 +44,11 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/dkmrya02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dkmrya" height="30" width="40" /></a>&nbsp;&nbsp;</p>
+<a href="https://linkedin.com/in/curiousdilip" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dkmrya" height="30" width="40" /></a>&nbsp;&nbsp;</p>
 
 <h3 align="center">Check out my work</h3>
 <p align="center">
-<a href="https://github.com/dkmrya02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="dkmrya02" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://github.com/curiousdilip" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="dkmrya02" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://codepen.io/dkmrya02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="dkmrya02" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://dribbble.com/dkmrya02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="dkmrya02" height="30" width="40" /></a>
 </p>
