@@ -28,10 +28,10 @@
 
 <p align="center">
 <a href="https://github.com/curiousdilip">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dkmrya02&theme=vision-friendly-dark&show_icons=true&include_all_commits=true&count_private=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=curiousdilip&theme=vision-friendly-dark&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/curiousdilip">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkmrya02&layout=compact&theme=vision-friendly-dark" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiousdilip&layout=compact&theme=vision-friendly-dark" />
 </a>
 </p>
 
