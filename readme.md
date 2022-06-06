@@ -2,7 +2,7 @@
 
 ## About Me
 
-- Hi! My name is **Dilip Kumar Maurya** and I am a self taught **Front End Web Developer**. I learnt everything I know in my free time from youtube and online courses.
+- I am a frontend web developer with 1.5 years of experience (professional + freelance), I'm very passionate about technology and computers. I am reliable, can work in a team, and can learn quickly my interests are in frontend web development. In my free time, I enjoy music, gaming, and reading. As well, I love to travel and see new places and meet new people.
 - I’m currently learning Javascript.
 
 
