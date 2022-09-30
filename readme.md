@@ -45,6 +45,6 @@
 <h3 align="center">Check out my work</h3>
 <p align="center">
 <a href="https://github.com/curiousdilip" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="dkmrya02" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://codepen.io/curiousdilip" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="dkmrya02" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://codepen.io/curiousdilip" target="blank"><img align="center" src="[https://img.shields.io/static/v1?style=for-the-badge&logo=codepen&&label=&color=E34F26]" alt="dkmrya02" height="30" width="40" /></a>&nbsp;&nbsp;
 </p>
 
