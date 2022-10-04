@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Senor-Ducky&label=Profile%20views&color=0e75b6&style=flat" alt="Senor-Ducky" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=curiousdilip&label=Profile%20views&color=0e75b6&style=flat" alt="curiousdilip" /> </p>
 
 ## About Me
 
