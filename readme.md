@@ -14,6 +14,7 @@
 ![Javascript](https://img.shields.io/static/v1?style=for-the-badge&logo=javascript&message=Javascript&label=&color=F7DF1E&labelColor=000000)
 <br/>
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=git&message=Git&label=&color=F05032&labelColor=000000)
+![Github](https://img.shields.io/static/v1?style=for-the-badge&logo=github&message=Github&label=&color=F05032&labelColor=000000)
 <br/>
 ![PowerShell](https://img.shields.io/static/v1?style=for-the-badge&logo=powershell&message=PowerShell&label=&color=5391FE&labelColor=000000)
 <br/>
