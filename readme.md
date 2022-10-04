@@ -2,9 +2,10 @@
 
 ## About Me
 
-- 🔭 I’m currently working at [TAknik Bharti](http://www.taknikbharti.com/)
+- 🔭 I’m currently working at [Taknik Bharti](http://www.taknikbharti.com/)
 - 📫 How to reach me **curiousdilip@gmail.com**
-- I’m currently learning ReactJs.
+- 🏫I’m currently learning ReactJs.
+
 
 
 ## Tech/Software Stack
@@ -25,36 +26,36 @@
 
 <hr/>
 
+## Learning From
+
+![My Labtop](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
+![Browser](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
+![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+<br/>
+
+
+<p align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curiousdilip&theme=vue" /></p>
+
 <p align="center">
-<a href="https://github.com/curiousdilip">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=curiousdilip&theme=vision-friendly-dark&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/curiousdilip">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiousdilip&layout=compact&theme=vision-friendly-dark" />
-</a>
-<a href="https://github.com/curiousdilip">
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=curiousdilip" />
-</a>
+<img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiousdilip&layout=compact&theme=vision-friendly-dark" />
 </p>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=curiousdilip&column=7&theme=vision-friendly-dark"/>
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=curiousdilip&theme=vision-friendly-dark" />
-
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=curiousdilip" /></p>
 <hr/>
 
-<p align="center">
 
 <h3 align="center">Connect with me</h3>
+
 <p align="center">
-<a href="https://linkedin.com/in/curiousdilip" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dkmrya" height="30" width="40" /></a>&nbsp;&nbsp;</p>
-
-
+<a href="https://facebook.com/curiousdilip" target="blank"><img align="center" src="   https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="curiousdilip"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/curiousdilip/" target="blank"><img align="center" src="  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="curiousdilip"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/curiousdilip" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="curiousdilip"/></a>&nbsp;&nbsp;
+</p>
 <hr/>
-
 
 <h3 align="center">Check out my work</h3>
 <p align="center">
-<a href="https://github.com/curiousdilip" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="dkmrya02" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://codepen.io/curiousdilip" target="blank"><img align="center" src="[https://img.shields.io/static/v1?style=for-the-badge&logo=codepen&&label=&color=E34F26]" alt="dkmrya02" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://codepen.io/curiousdilip" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="curiousdilip"/></a>&nbsp;&nbsp;
+<a href="https://github.com/curiousdilip" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="curiousdilip"/></a>&nbsp;&nbsp;
 </p>
-
