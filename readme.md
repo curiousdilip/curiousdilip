@@ -6,7 +6,6 @@
 - 📫 How to reach me **curiousdilip@gmail.com**
 - I’m currently learning ReactJs.
 
-<hr/>
 
 ## Tech/Software Stack
 
