@@ -1,8 +1,9 @@
-<!-- ![dkmrya02](/assets/banner.jpg) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Senor-Ducky&label=Profile%20views&color=0e75b6&style=flat" alt="Senor-Ducky" /> </p>
 
 ## About Me
 
-- I am a frontend web developer, I'm very passionate about technology and computers. I am reliable, can work in a team, and can learn quickly my interests are in frontend web development. In my free time, I enjoy music, gaming, and reading. As well, I love to travel and see new places and meet new people.
+- 🔭 I’m currently working at [TAknik Bharti](http://www.taknikbharti.com/)
+- 📫 How to reach me **curiousdilip@gmail.com**
 - I’m currently learning ReactJs.
 
 
