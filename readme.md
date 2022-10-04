@@ -6,8 +6,6 @@
 - 📫 How to reach me **curiousdilip@gmail.com**
 - 🏫I’m currently learning ReactJs.
 
-
-
 ## Tech/Software Stack
 
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=HTML5&label=&color=E34F26&labelColor=000000)
@@ -24,8 +22,6 @@
 ![Photoshop](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-photoshop&message=Photoshop&label=&color=31A8FF&labelColor=000000)
 <br/><br/>
 
-<hr/>
-
 ## Learning From
 
 ![My Labtop](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
@@ -33,6 +29,7 @@
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 <br/>
 
+<hr/>
 
 <p align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curiousdilip&theme=vue" /></p>
 
@@ -42,14 +39,14 @@
 </p>
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=curiousdilip" /></p>
-<hr/>
 
+<hr/>
 
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
-<a href="https://facebook.com/curiousdilip" target="blank"><img align="center" src="   https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="curiousdilip"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/curiousdilip/" target="blank"><img align="center" src="  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="curiousdilip"/></a>&nbsp;&nbsp;
+<a href="https://facebook.com/curiousdilip" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="curiousdilip"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/curiousdilip/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="curiousdilip"/></a>&nbsp;&nbsp;
 <a href="https://twitter.com/curiousdilip" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="curiousdilip"/></a>&nbsp;&nbsp;
 </p>
 <hr/>
