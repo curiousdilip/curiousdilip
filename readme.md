@@ -31,6 +31,9 @@
 <a href="https://github.com/curiousdilip">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiousdilip&layout=compact&theme=vision-friendly-dark" />
 </a>
+<a href="https://github.com/curiousdilip">
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=curiousdilip" />
+</a>
 </p>
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=curiousdilip&column=7&theme=vision-friendly-dark"/>
