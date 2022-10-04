@@ -6,6 +6,7 @@
 - 📫 How to reach me **curiousdilip@gmail.com**
 - I’m currently learning ReactJs.
 
+<hr/>
 
 ## Tech/Software Stack
 
@@ -23,6 +24,7 @@
 ![Photoshop](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-photoshop&message=Photoshop&label=&color=31A8FF&labelColor=000000)
 <br/><br/>
 
+<hr/>
 
 <p align="center">
 <a href="https://github.com/curiousdilip">
@@ -46,6 +48,10 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/curiousdilip" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dkmrya" height="30" width="40" /></a>&nbsp;&nbsp;</p>
+
+
+<hr/>
+
 
 <h3 align="center">Check out my work</h3>
 <p align="center">
