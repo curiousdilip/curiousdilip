@@ -24,7 +24,7 @@
 
 ## Learning From
 
-![My Labtop](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
+![My Labtop](https://img.shields.io/badge/macbook%20air%20M1-b2b5b8?style=for-the-badge&logo=applw&logoColor=white)
 ![Browser](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 <br/>
