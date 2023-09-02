@@ -2,9 +2,9 @@
 
 ## About Me
 
-- 🔭 I’m currently working at [Taknik Bharti](http://www.taknikbharti.com/)
+- 🔭 I’m currently looking for a frontend web related Job
 - 📫 How to reach me **curiousdilip@gmail.com**
-- 🏫I’m currently learning ReactJs.
+- 🏫 I’m currently learning ReactJs.
 
 ## Tech/Software Stack
 
