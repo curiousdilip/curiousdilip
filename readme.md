@@ -1,57 +1,61 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=curiousdilip&label=Profile%20views&color=0e75b6&style=flat" alt="curiousdilip" /> </p>
 
-## About Me
+## 👋 Hey, I'm Dilip Kumar Maurya!
 
-- 🔭 I’m currently looking for a frontend web related Job
-- 📫 How to reach me **curiousdilip@gmail.com**
-- 🏫 I’m currently learning ReactJs.
+I'm a **Frontend Web Developer** based in New Delhi, India, passionate about crafting responsive, user-friendly websites and web apps. I specialize in **HTML**, **CSS**, **JavaScript**, **React**, and **WordPress**, and I build modern digital experiences.
 
-## Tech/Software Stack
+- 🔭 Actively seeking **Frontend Developer** roles
+- 🌱 I'm mastering **React.js** and exploring **Next.js**
+- 📫 You can reach me at: **curiousdilip@gmail.com**
+- 🌐 Portfolio: [www.dilipmaurya.in](https://www.dilipmaurya.in)
 
-![HTML5](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=HTML5&label=&color=E34F26&labelColor=000000)
-![CSS3](https://img.shields.io/static/v1?style=for-the-badge&logo=css3&message=CSS3&label=&color=1572B6&labelColor=000000)
-![Javascript](https://img.shields.io/static/v1?style=for-the-badge&logo=javascript&message=Javascript&label=&color=F7DF1E&labelColor=000000)
-<br/>
-![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=git&message=Git&label=&color=F05032&labelColor=000000)
-![Github](https://img.shields.io/static/v1?style=for-the-badge&logo=github&message=Github&label=&color=F05032&labelColor=000000)
-<br/>
-![PowerShell](https://img.shields.io/static/v1?style=for-the-badge&logo=powershell&message=PowerShell&label=&color=5391FE&labelColor=000000)
-<br/>
-![VS Code](https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio-code&message=VS%20Code&label=&color=007ACC&labelColor=000000)
-<br/>
-![Photoshop](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-photoshop&message=Photoshop&label=&color=31A8FF&labelColor=000000)
-<br/><br/>
+> "Building the web, one pixel at a time! ✨"
 
-## Learning From
+## 🛠️ Tech Stack
 
-![My Labtop](https://img.shields.io/badge/macbook%20Air-b2b5b8?style=for-the-badge&logo=apple&logoColor=white)
-![Browser](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
-![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-<br/>
+**Languages**  
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
-<hr/>
+**Frameworks & Libraries**  
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
 
-<p align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curiousdilip&theme=vue" /></p>
+**Tools**  
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 
-<p align="center">
+
+## 🚀 Featured Projects
+
+- **[MPAA Academy](https://www.mpaa.ac.uk/)**: A responsive WordPress site with custom animations, form automation, VPS hosting, and SEO optimization.  
+- **[Personal Portfolio](https://www.dilipmaurya.in)**: Built with Next.js, showcasing modern UI/UX and Framer Motion animations.  
+- **[Pradhanmantri Sangrahalaya](https://www.pmsangrahalaya.gov.in/)**: A Laravel-based website featuring a ticket booking system and payment integration. I contributed to the frontend development of this website.  
+
+[Explore all projects](https://www.dilipmaurya.in/work)
+
+## 📊 GitHub Stats
+
+<p align="center"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curiousdilip&theme=algolia" /></p>
+ 
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=curiousdilip&theme=vision-friendly-dark" alt="Dilip's Contribution Streak" /></p>
+
+<div align="center"">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=curiousdilip&theme=vision-friendly-dark&show_icons=true&include_all_commits=true&count_private=true" />
 <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiousdilip&layout=compact&theme=vision-friendly-dark" />
-</p>
+</div>
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=curiousdilip" /></p>
 
-<hr/>
-
-<h3 align="center">Connect with me</h3>
-
+## 🤝 Connect with Me
 <p align="center">
-<a href="https://www.linkedin.com/in/curiousdilip/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="curiousdilip"/></a>&nbsp;&nbsp;
-
-</p>
-<hr/>
-
-<h3 align="center">Check out my work</h3>
-<p align="center">
-<a href="https://github.com/curiousdilip" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="curiousdilip"/></a>&nbsp;&nbsp;
-  <a href="https://www.dilipmaurya.in/projects" target="blank"><img align="center" src="https://img.shields.io/badge/My Projects-100000?style=for-the-badge&logo=nextjs&logoColor=white" alt="my website"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/curiousdilip/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
+  <a href="https://github.com/curiousdilip" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://codepen.io/curiousdilip" target="_blank"><img src="https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black" alt="Codepen"/></a>
+  <a href="https://x.com/curiousdilip/" target="_blank"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white" alt="Codepen"/></a>
 </p>
