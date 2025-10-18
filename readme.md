@@ -4,7 +4,7 @@
 
 I'm a **Web Developer** based in New Delhi, India, passionate about crafting responsive, user-friendly websites and web apps. I specialize in **HTML**, **CSS**, **JavaScript**, **React**, and **WordPress**, and I build modern digital experiences.
 
-- 🔭 Actively seeking **Frontend Developer** roles
+- 🔭 Actively seeking **Web Developer** roles
 - 🌱 I'm mastering **React.js** and exploring **Next.js**
 - 📫 You can reach me at: **curiousdilip@gmail.com**
 - 🌐 Portfolio: [www.dilipmaurya.in](https://www.dilipmaurya.in)
