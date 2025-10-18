@@ -2,7 +2,7 @@
 
 ## 👋 Hey, I'm Dilip Kumar Maurya!
 
-I'm a **Frontend Web Developer** based in New Delhi, India, passionate about crafting responsive, user-friendly websites and web apps. I specialize in **HTML**, **CSS**, **JavaScript**, **React**, and **WordPress**, and I build modern digital experiences.
+I'm a **Web Developer** based in New Delhi, India, passionate about crafting responsive, user-friendly websites and web apps. I specialize in **HTML**, **CSS**, **JavaScript**, **React**, and **WordPress**, and I build modern digital experiences.
 
 - 🔭 Actively seeking **Frontend Developer** roles
 - 🌱 I'm mastering **React.js** and exploring **Next.js**
